@@ -4,5 +4,7 @@ Pendu fonctionnel réalisé en C# pour un projet de porte ouvert de BTS SNIR. Le
 Credit to :
 
 izihunger (Connection au serveur)
+
 Paulelouis (Interface xaml C#)
+
 spaz88 (algorithme Pendu)
