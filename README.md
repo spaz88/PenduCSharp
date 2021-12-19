@@ -5,4 +5,4 @@ Credit to :
 
 izihunger (Connection au serveur)
 Paulelouis (Interface xaml C#)
-spaz88 (algorithme Pendu
+spaz88 (algorithme Pendu)
